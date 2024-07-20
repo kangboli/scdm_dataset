@@ -1,6 +1,8 @@
-Dataset for testing SCDM.jl
+Dataset for testing SCDM.jl and WTP.jl
 
-The examples are replicates of the following study
+The examples are replicates from the study: 
+
+Automated high-throughput Wannierisation
 
 https://www.nature.com/articles/s41524-020-0312-y
 

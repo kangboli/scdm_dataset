@@ -1,0 +1,14 @@
+The data distributed in this entry is licensed under the Creative Commons Attribution 
+4.0 International license.
+
+Note that the software distributed in the Virtual Machine is distributed under their 
+respective open-source licenses.
+
+In particular, the AiiDA workflows developed for this work (as well as the 
+modifications to AiiDA, the aiida-quantumespresso plugin, and the aiida-wannier90 
+plugin) are released under the same MIT license.
+
+Also the ansible scripts to generate the Virtual Machine 
+(modified from the Quantum Mobile scripts available at
+https://github.com/marvel-nccr/quantum-mobile/releases/) 
+are released under a MIT license.
